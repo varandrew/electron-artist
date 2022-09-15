@@ -2,7 +2,7 @@
 
 ## About Electron artist
 
-<img src='https://github.com/varandrew/electron-artist/blob/main/screenshots/log0.png' height="200" width="200" />
+<img src='https://github.com/varandrew/electron-artist/blob/main/screenshots/logo.png' height="200" width="200" />
 
 
 ## Screenshot
